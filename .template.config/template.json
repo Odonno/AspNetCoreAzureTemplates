@@ -1,0 +1,15 @@
+{
+    "author": "David Bottiau",
+    "classifications": [
+        "Web",
+        "ASP.NET",
+        "Azure"
+    ],
+    "name": "ASP.NET Core Azure Web App",
+    "identity": "AspNetCore.AzureWebApp",
+    "shortName": "azurewebapp",
+    "tags": {
+        "language": "C#"
+    },
+    "sourceName": "AspNetCoreAzureTemplates"
+}
