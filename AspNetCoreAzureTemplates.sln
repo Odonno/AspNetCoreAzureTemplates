@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29319.158
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreAzureTemplates", "AspNetCoreAzureTemplates\AspNetCoreAzureTemplates.csproj", "{BA10CCD5-E3DE-4346-9054-7FC1FC6D64EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCoreAzureTemplates", "AspNetCoreAzureTemplates\AspNetCoreAzureTemplates.csproj", "{BA10CCD5-E3DE-4346-9054-7FC1FC6D64EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreAzureTemplates.Configuration", "AspNetCoreAzureTemplates.Configuration\AspNetCoreAzureTemplates.Configuration.csproj", "{819618DF-7D95-4DE6-9633-680C93A29EC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCoreAzureTemplates.Configuration", "AspNetCoreAzureTemplates.Configuration\AspNetCoreAzureTemplates.Configuration.csproj", "{819618DF-7D95-4DE6-9633-680C93A29EC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreAzureTemplates.MicrosoftGraph", "AspNetCoreAzureTemplates.MicrosoftGraph\AspNetCoreAzureTemplates.MicrosoftGraph.csproj", "{5452C325-EFD8-4C81-B2AD-01C84E9F0554}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCoreAzureTemplates.MicrosoftGraph", "AspNetCoreAzureTemplates.MicrosoftGraph\AspNetCoreAzureTemplates.MicrosoftGraph.csproj", "{5452C325-EFD8-4C81-B2AD-01C84E9F0554}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreAzureTemplates.Identity", "AspNetCoreAzureTemplates.Identity\AspNetCoreAzureTemplates.Identity.csproj", "{049B183C-2F74-445F-9817-0652F72792F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCoreAzureTemplates.Identity", "AspNetCoreAzureTemplates.Identity\AspNetCoreAzureTemplates.Identity.csproj", "{049B183C-2F74-445F-9817-0652F72792F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
