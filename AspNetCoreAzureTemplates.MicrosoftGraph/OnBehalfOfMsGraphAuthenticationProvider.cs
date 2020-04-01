@@ -39,7 +39,7 @@ namespace AspNetCoreAzureTemplates.MicrosoftGraph
             // ADAL uses it to find a token in the cache if available
             var user = httpContext.User;
             var claim = user.FindFirst(ClaimTypes.Upn) ?? user.FindFirst(ClaimTypes.Email);
-            string userName = claim?.Value;
+            string? userName = claim?.Value;
 
             var userAssertion = new UserAssertion(token, assertionType, userName);
 

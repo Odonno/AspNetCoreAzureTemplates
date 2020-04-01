@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>AspNetCoreAzureTemplates</id>
-    <version>1.0.0</version>
+    <version>3.1.0</version>
     <description>
       Creates an ASP.NET Core Web App using ready-to-use Azure features (Healthchecks, SignalR, Azure SignalR, Azure AD, Microsoft Graph API).
     </description>
