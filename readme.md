@@ -7,6 +7,7 @@ A list of templates used to generate ASP.NET Core web apps using ready-to-use Az
 * Azure SignalR
 * Azure Active Directory
 * Microsoft Graph API (using Azure AD)
+* Azure Application Insights
 
 ### How to use?
 
